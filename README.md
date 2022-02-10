@@ -2,5 +2,7 @@
 
 
 
-I'm currently learning c and cpp coding languages                                                                                                                                                       
-Email me at:bismanaveed693@gmail.com
+I'm currently learning c and cpp coding languages 
+
+how to reach me:
+Email me at bismanaveed693@gmail.com
