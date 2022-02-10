@@ -1,3 +1,3 @@
-### Hi there 👋
-this is Bisma Naveed
-currently doing bacherlor's in computer systems
+### Hi!! I'm Bisma Naveed 👋
+I'm currently learning c and cpp coding languages
+Email me at:bismanaveed693@gmail.com
